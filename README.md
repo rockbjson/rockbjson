@@ -47,5 +47,5 @@ I'm continuing to develop projects across **software engineering, applied AI, fi
 
 ## Connect
 
-🌐 **Portfolio:** [your portfolio URL]  
-💼 **LinkedIn:** [your LinkedIn URL]
+🌐 **Portfolio:** [under construction]  
+💼 **LinkedIn:** [[https://www.linkedin.com/in/tanisi-das/]](https://www.linkedin.com/in/tanisi-das/)
