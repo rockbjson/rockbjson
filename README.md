@@ -48,4 +48,4 @@ I'm continuing to develop projects across **software engineering, applied AI, fi
 ## Connect
 
 🌐 **Portfolio:** [under construction]  
-💼 **LinkedIn:** [[https://www.linkedin.com/in/tanisi-das/]](https://www.linkedin.com/in/tanisi-das/)
+💼 **LinkedIn:** [https://www.linkedin.com/in/tanisi-das/](https://www.linkedin.com/in/tanisi-das/)
