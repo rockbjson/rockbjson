@@ -47,5 +47,5 @@ I'm continuing to develop projects across **software engineering, applied AI, fi
 
 ## Connect
 
-🌐 **Portfolio:** [under construction]  
+🌐 **Portfolio:** [https://tanisi-das-portfolio.vercel.app][https://tanisi-das-portfolio.vercel.app]  
 💼 **LinkedIn:** [https://www.linkedin.com/in/tanisi-das/](https://www.linkedin.com/in/tanisi-das/)
